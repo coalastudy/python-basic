@@ -1,2 +1,2 @@
-# Challenge 1
+# Challenge 1 - 악어 그리기
 
