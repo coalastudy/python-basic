@@ -8,7 +8,7 @@ description: '파이썬으로 모니터에 문자를 출력하는 방법을 배�
 
 간단한 출력 연습을 해보고, 고급 과정으로 메뉴판 그리기를 해 볼 것 입니다. 이미 나는 좀 알아 하시는 분들은 당장 메뉴판을 그려보셔도 좋아요. 여러분이 가게를 차린다고 생각하시고 정성껏 메뉴판을 작성해보아요!
 
-![&#xBA54;&#xB274;&#xD310; &#xCD9C;&#xB825; &#xACB0;&#xACFC;](../.gitbook/assets/image%20%2822%29.png)
+![&#xBA54;&#xB274;&#xD310; &#xCD9C;&#xB825; &#xACB0;&#xACFC;](../.gitbook/assets/image%20%2823%29.png)
 
 ## Hello World! 출력하기
 
@@ -18,7 +18,7 @@ Hello World!는 여러분이 모든 프로그래밍 언어를 배울 때 접하�
 
 'print'는 번역하면 '출력하다'라는 뜻이죠. 파이썬에서 print문을 사용하여 모니터에 우리가 원하는 문자들을 출력할 수 있습니다. 우리가 파이썬 파일에 print문을 쓰면 컴퓨터는 출력하라는 명령을 받아서 우리가 보는 모니터 화면에 print문 안의 내용을 보여주게 됩니다.
 
-![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%2829%29.png)
+![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%2830%29.png)
 
 ### Hello World!
 
@@ -58,10 +58,10 @@ print("비만도 계산기 프로그램입니다.")
 
 main.py를 실행했던 것 처럼, 이번에는 obesity\_calculator.py에서 우클릭하여 Run 'obesity\_calculator'를 클릭합니다.
 
-![obesity\_calculator.py&#xB97C; &#xC2E4;&#xD589;](../.gitbook/assets/image%20%2826%29.png)
+![obesity\_calculator.py&#xB97C; &#xC2E4;&#xD589;](../.gitbook/assets/image%20%2827%29.png)
 
 {% hint style="info" %}
-메뉴막대에 보시면 Run이라는 항목이 있습니다. 그 안에 첫번째 Run과 세번째 Run 이렇게 Run이 두개가 존재하는데, 두개에는 큰 차이점이 있습니다. 첫번째 Run을 이전에 실행시켰던 파일이 있으면 해당 파일을 또 다시 시작합니다. 따라서 어떤 파일을 실행시켜야 하는지 몰라도 됩니다. 그러나 세번째 Run은 초기 상태에서 실행하기 때문에 파일을 선택하는 과정이 추가됩니다.
+메뉴막대에 보시면 Run이라는 항목이 있습니다. 그 안에 첫번째 Run과 세번째 Run, Run이 2개가 존재하는데, 큰 차이점이 있습니다. 첫번째 Run 이전에 실행시켰던 파일이 있으면 해당 파일을 또 다시 시작합니다. 따라서 이전에 실행 기록이 없다면 비활성화 됩니다. 세번째 Run은 초기 상태에서 실행하기 때문에 파일을 선택하는 과정이 추가됩니다.
 {% endhint %}
 
 ## 메뉴판 출력하기
@@ -99,7 +99,6 @@ main.py를 실행했던 것 처럼, 이번에는 obesity\_calculator.py에서 �
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-
 "you give me {gift}, he loves {gift}".format(gift="shoes")
 #you give me shoes, he loves shoes
 ```
@@ -180,4 +179,10 @@ print('''
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+{% hint style="info" %}
+print문 안에 따옴표 3개로 감싸면 줄바꿈에 관계없이 그대로 출력됩니다. 기존 따옴표 안에서 줄바꿈을 하려면 '\n' 문자를 사용합니다.
+{% endhint %}
+
+
 
