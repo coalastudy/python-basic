@@ -33,11 +33,11 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xD30C;&#xC774;&#xC36C; &#xD30C;&#xC77C; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%289%29.png)
+   ![&#xD30C;&#xC774;&#xC36C; &#xD30C;&#xC77C; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2810%29.png)
 
 2. Name란에 main을 입력하고 OK버튼을 클릭합니다.
 
-![main.py &#xC0DD;&#xC131;](../.gitbook/assets/image%20%282%29.png)
+![main.py &#xC0DD;&#xC131;](../.gitbook/assets/image%20%283%29.png)
 
 ## 디렉터리 생성하기
 
@@ -49,17 +49,17 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2827%29.png)
+   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2830%29.png)
 
 2. calculators를 directory name으로 입력하고 OK버튼을 클릭합니다.
 
-![calculators &#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2815%29.png)
+![calculators &#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2816%29.png)
 
 ## 구조 완성하기
 
 Stage1의 처음 목표를 달성하기 위해, life 디렉터리와 2개의 디렉터리 안의 파일들을 생성해봅시다.
 
-![&#xC644;&#xC131;&#xB41C; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2817%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="warning" %}
 디렉터리 내부에 파이썬 파일을 생성할 때에는 해당하는 디렉터리에서 우클릭하여 'New -&gt; Python File'로 생성해야 합니다.
