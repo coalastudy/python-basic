@@ -18,7 +18,7 @@ Hello World!는 여러분이 모든 프로그래밍 언어를 배울 때 접하�
 
 'print'는 번역하면 '출력하다'라는 뜻이죠. 파이썬에서 print문을 사용하여 모니터에 우리가 원하는 문자들을 출력할 수 있습니다. 우리가 파이썬 파일에 print문을 쓰면 컴퓨터는 출력하라는 명령을 받아서 우리가 보는 모니터 화면에 print문 안의 내용을 보여주게 됩니다.
 
-![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%2836%29.png)
+![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%2837%29.png)
 
 ### Hello World!
 

@@ -49,7 +49,7 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2837%29.png)
+   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2838%29.png)
 
 2. calculators를 directory name으로 입력하고 OK버튼을 클릭합니다.
 
