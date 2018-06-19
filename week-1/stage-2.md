@@ -64,6 +64,132 @@ main.py를 실행했던 것 처럼, 이번에는 obesity\_calculator.py에서 �
 메뉴막대에 보시면 Run이라는 항목이 있습니다. 그 안에 첫번째 Run과 세번째 Run, Run이 2개가 존재하는데, 큰 차이점이 있습니다. 첫번째 Run 이전에 실행시켰던 파일이 있으면 해당 파일을 또 다시 시작합니다. 따라서 이전에 실행 기록이 없다면 비활성화 됩니다. 세번째 Run은 초기 상태에서 실행하기 때문에 파일을 선택하는 과정이 추가됩니다.
 {% endhint %}
 
+## print문 응용
+
+### 이스케이프 코드 알아보기
+
+이스케이프 코드란 출력할 때, 보기 좋게 하는 코드들을 문자 조합을 미리 지정해 둔 것입니다. 예를 들어, 줄바꿈, 탭 띄우기, 따옴표 출력 등이 있습니다. 대표적으로 많이 사용되는 이스케이프 코드에 대해 알아보겠습니다.
+
+#### 줄바꿈 문자 - \n
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("enter\nokay enter!\nyes enter!")
+# enter okay 
+# enter! 
+# yes enter!
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 탭 띄우기 문자 - \t
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("\tthis\t is tab")
+#     this    is tab
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 역슬래쉬 문자 - \\
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("\\\\\\\\\\ this is back slash")
+# \\\\\ this is back slash
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 따옴표 문자 - \'
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("\'\'\'\'\' single quote")
+# ''''' single quote
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 쌍따옴표 문자 - \"
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("\"\"\"\"\" double quote")
+# """"" double quote
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### 따옴표 알아보기
+
+따옴표에는 홑따옴표와 쌍따옴표가 있습니다. 이 둘의 차이는 무엇일까요? 둘을 사용함에 있어 차이는 없습니다. 다만, 홑따옴표 안에서는 쌍따옴표를 그래도 쓸 수 있고, 쌍따옴표 안에서는 홑따옴표를 그대로 사용할 수 있는 차이입니다.
+
+이외에 파이썬에서 세 개의 따옴표를 붙여서 사용하면, 세 개의 따옴표 안에 들어간 내용들은 줄바꿈이 자유롭게 일어날 수 있습니다.
+
+#### 홑따옴표 안의 쌍따옴표
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("""""" double quote")
+# error
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("''''' single quote")
+# ''''' single quote
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 쌍따옴표 안의 홑따옴표
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print('''''' single quote')
+# error
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print('""""" double quote')
+# """"" double quote
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 세 개의 따옴표
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print('''
+I love you
+    so so so much
+but miss you~ bye~!
+''')
+# I love you
+#     so so so much
+# but miss you~ bye~!
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ## 메뉴판 출력하기
 
 ### format문 알아보기
