@@ -15,13 +15,14 @@ games/
     baseball_game.py
     beskin_rabins_game.py
     crocodile_game.py
+    rps_game.py
 ```
 
 ## 악어 그리기
 
 crocodile\_game.py에 아래와 같은 악어가 출력되도록 작성해주세요.
 
-![&#xC644;&#xC131;&#xB41C; &#xC545;&#xC5B4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%2812%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xC545;&#xC5B4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="info" %}
 이빨 안의 숫자는 format문을 사용하여 입력해주세요.
