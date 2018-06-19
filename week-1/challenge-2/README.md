@@ -18,7 +18,7 @@ BMI = 몸무게 / \(키 \* 키 / 10000\)
 
 아래와 같이 출력하시오.
 
-![&#xBE44;&#xB9CC;&#xB3C4; &#xACC4;&#xC0B0;&#xAE30; &#xCD9C;&#xB825;](../../.gitbook/assets/image%20%2847%29.png)
+![&#xBE44;&#xB9CC;&#xB3C4; &#xACC4;&#xC0B0;&#xAE30; &#xCD9C;&#xB825;](../../.gitbook/assets/image%20%2848%29.png)
 
 
 
