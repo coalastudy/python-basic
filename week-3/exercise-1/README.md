@@ -10,5 +10,5 @@ description: while문을 응용하여 사용자로부터 연산의 입력이 종
 
 ![&#xC885;&#xB8CC;&#xB418;&#xB294; &#xBAA8;&#xC2B5;&#xC758; &#xACC4;&#xC0B0;&#xAE30;](../../.gitbook/assets/image%20%288%29.png)
 
-{% page-ref page="../untitled-1.md" %}
+{% page-ref page="../stage-3.md" %}
 

@@ -8,7 +8,7 @@ description: 임의의 난수를 발생시킨 컴퓨터와 가위 바위 보 게
 
 두번째 플레이어를 컴퓨터라고 가정하고, 입력받는 것이 아니라 임의의 난수를 입력받습니다.
 
-{% page-ref page="../untitled.md" %}
+{% page-ref page="../stage-2.md" %}
 
 ## 사용자가 이길 때까지 반복하기
 
@@ -16,5 +16,5 @@ description: 임의의 난수를 발생시킨 컴퓨터와 가위 바위 보 게
 
 ![&#xAC00;&#xC704; &#xBC14;&#xC704; &#xBCF4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%2869%29.png)
 
-{% page-ref page="../untitled-1.md" %}
+{% page-ref page="../stage-3.md" %}
 
