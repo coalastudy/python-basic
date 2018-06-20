@@ -38,5 +38,5 @@ description: Stage 4에 이어서 주민번호 뒷자리 정보를 가지고 지
 
 ## 지역 판별하기
 
-![&#xC644;&#xC131;&#xB41C; &#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xBD84;&#xC11D;&#xAE30;](../../.gitbook/assets/image%20%2814%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xBD84;&#xC11D;&#xAE30;](../../.gitbook/assets/image%20%2815%29.png)
 
