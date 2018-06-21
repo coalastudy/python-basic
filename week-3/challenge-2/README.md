@@ -10,7 +10,7 @@ description: >-
 
 먼저는 과목 개수 정보에 대해 사용자로부터 입력을 받은 뒤, 개수만큼 while문을 실행하여 과목의 정보를 입력 받으시오. 이때 동적으로 과목의 정보를 받아야 합니다.
 
-![&#xC5EC;&#xB7EC; &#xACFC;&#xBAA9; &#xC785;&#xB825;&#xBC1B;&#xAE30;](../../.gitbook/assets/image%20%2830%29.png)
+![&#xC5EC;&#xB7EC; &#xACFC;&#xBAA9; &#xC785;&#xB825;&#xBC1B;&#xAE30;](../../.gitbook/assets/image%20%2831%29.png)
 
 ## 반복문을 사용하여 학점 계산하기
 
