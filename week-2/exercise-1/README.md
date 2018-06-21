@@ -8,13 +8,13 @@ description: 1주차 자율과제로 만든 일반 계산기를 발전시켜봅�
 
 숫자의 형태로 연산을 선택해주세요.
 
-![&#xC5F0;&#xC0B0; &#xC120;&#xD0DD;&#xD558;&#xAE30;](../../.gitbook/assets/image%20%2820%29.png)
+![&#xC5F0;&#xC0B0; &#xC120;&#xD0DD;&#xD558;&#xAE30;](../../.gitbook/assets/image%20%2824%29.png)
 
 ## 연산에 따른 출력하기
 
 앞서 선택한 연산에 따라서 출력해주세요.
 
-![&#xCD9C;&#xB825; &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%2821%29.png)
+![&#xCD9C;&#xB825; &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%2825%29.png)
 
 {% page-ref page="../stage-2.md" %}
 

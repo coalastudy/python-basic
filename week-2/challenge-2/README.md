@@ -8,7 +8,7 @@ description: Stage 4에 이어서 주민번호 뒷자리 정보를 가지고 지
 
 주민번호는 사진과 같이 구성되어 있습니다.
 
-![&#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xC758;&#xBBF8;](../../.gitbook/assets/image%20%286%29.png)
+![&#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xC758;&#xBBF8;](../../.gitbook/assets/image%20%289%29.png)
 
 우리는 공개된 지역코드를 가지고 지역을 판별하도록 하겠습니다.
 
@@ -38,5 +38,5 @@ description: Stage 4에 이어서 주민번호 뒷자리 정보를 가지고 지
 
 ## 지역 판별하기
 
-![&#xC644;&#xC131;&#xB41C; &#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xBD84;&#xC11D;&#xAE30;](../../.gitbook/assets/image%20%2815%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xC8FC;&#xBBFC;&#xBC88;&#xD638; &#xBD84;&#xC11D;&#xAE30;](../../.gitbook/assets/image%20%2818%29.png)
 

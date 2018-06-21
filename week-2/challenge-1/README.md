@@ -17,5 +17,5 @@ BMI에 따른 비만도 정보입니다. 아래의 자료를 참고하여 비만
 저체중 : 18.5 미만
 ```
 
-![&#xC644;&#xC131;&#xB41C; &#xBE44;&#xB9CC;&#xB3C4; &#xACC4;&#xC0B0;&#xAE30;](../../.gitbook/assets/image%20%2813%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xBE44;&#xB9CC;&#xB3C4; &#xACC4;&#xC0B0;&#xAE30;](../../.gitbook/assets/image%20%2816%29.png)
 

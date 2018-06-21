@@ -8,7 +8,7 @@ description: while문을 응용하여 사용자로부터 연산의 입력이 종
 
 연산을 계속해서 반복하고, 7이라는 종료 신호가 들어오면 프로그램을 종료시킵니다.
 
-![&#xC885;&#xB8CC;&#xB418;&#xB294; &#xBAA8;&#xC2B5;&#xC758; &#xACC4;&#xC0B0;&#xAE30;](../../.gitbook/assets/image%20%288%29.png)
+![&#xC885;&#xB8CC;&#xB418;&#xB294; &#xBAA8;&#xC2B5;&#xC758; &#xACC4;&#xC0B0;&#xAE30;](../../.gitbook/assets/image%20%2811%29.png)
 
 {% page-ref page="../stage-3.md" %}
 
