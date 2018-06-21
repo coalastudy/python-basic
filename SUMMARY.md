@@ -49,6 +49,10 @@
   * [Stage 4 - 루프속으로 빠져봅시다.](4/stage-3-..md)
   * [Challenge 2 - 악어 게임 완성하기](4/untitled-2/README.md)
     * [모범 답안](4/untitled-2/undefined.md)
+  * [자율과제 1 - 해적통 게임 만들기](4/1/README.md)
+    * [모범 답안](4/1/undefined.md)
+  * [자율과제 2 - 해적통 게임 완성하기](4/untitled-3/README.md)
+    * [모범 답안](4/untitled-3/undefined.md)
 * [5주차 - 베스킨라빈스 31 인공지능 컴퓨터를 이겨라!](untitled-1.md)
 * [6주차 - 당신의 프로그램을 가져보세요!](6.md)
 
