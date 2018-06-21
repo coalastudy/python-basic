@@ -12,6 +12,13 @@ description: 해적통 게임을 만들어봅시다.
 
 ## 해적통 그리기
 
+games 폴더에 pirate\_game.py를 생성해주세요.
+
+```text
+games/
+    pirate_game.py
+```
+
 아래와 같이 해적을 그려주세요. 해적통 안의 수는 리스트와 format문을 사용해주세요.
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
