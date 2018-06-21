@@ -12,5 +12,5 @@ description: >-
 
 ## 랜덤으로 번호 발생시키기
 
-![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2836%29.png)
+![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2837%29.png)
 

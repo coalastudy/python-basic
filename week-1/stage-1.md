@@ -31,7 +31,7 @@ main.py
 
 그 중에서도 아주 강력하고 무료로 사용이 가능한 파이참을 우리는 사용할 것입니다.
 
-![&#xD30C;&#xC774;&#xCC38; &#xB85C;&#xACE0;](../.gitbook/assets/image%20%2868%29.png)
+![&#xD30C;&#xC774;&#xCC38; &#xB85C;&#xACE0;](../.gitbook/assets/image%20%2870%29.png)
 
 ### 파이참 프로젝트 생성하기
 
@@ -39,7 +39,7 @@ main.py
 
 1. 파이참을 실행하면 아래와 같은 모습이 나옵니다. 왼쪽은 이전에 작업했던 프로젝트들이 나옵니다. 우리는 새로운 프로젝트를 생성해야 하니 'Create New Project'를 클릭합니다.
 
-   ![&#xD30C;&#xC774;&#xC36C; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2878%29.png)
+   ![&#xD30C;&#xC774;&#xC36C; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2880%29.png)
 
 2. 프로젝트 관련 설정하는 창이 보이게 됩니다. 우선은 확인해주어야 할 것이 있습니다. 우리가 사전에 설치한 파이썬이 잘 등록되어 있는지 여부입니다. 'Project Interpreter' 왼편에 작은 세모가 있는데, 그것을 클릭하시면 아래와 같이 펼쳐집니다. 거기서 'Base Interpreter'가 'python3'인지 확인하고, Location 마지막에 여러분이 원하는 프로젝트명을 입력하시고 'Create'를 클릭하시면 됩니다.
 
@@ -55,11 +55,11 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xD30C;&#xC774;&#xC36C; &#xD30C;&#xC77C; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2834%29.png)
+   ![&#xD30C;&#xC774;&#xC36C; &#xD30C;&#xC77C; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2835%29.png)
 
 2. Name란에 main을 입력하고 OK버튼을 클릭합니다.
 
-![main.py &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2815%29.png)
+![main.py &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2816%29.png)
 
 ## 디렉터리 생성하기
 
@@ -71,17 +71,17 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2887%29.png)
+   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2889%29.png)
 
 2. calculators를 directory name으로 입력하고 OK버튼을 클릭합니다.
 
-![calculators &#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2847%29.png)
+![calculators &#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%2849%29.png)
 
 ## 구조 완성하기
 
 Stage1의 처음 목표를 달성하기 위해, life 디렉터리와 2개의 디렉터리 안의 파일들을 생성해봅시다.
 
-![&#xC644;&#xC131;&#xB41C; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2853%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2855%29.png)
 
 {% hint style="warning" %}
 디렉터리 내부에 파이썬 파일을 생성할 때에는 해당하는 디렉터리에서 우클릭하여 'New -&gt; Python File'로 생성해야 합니다.
