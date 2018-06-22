@@ -62,7 +62,9 @@
   * [Stage 4 - 중복 코드 제거하기](week-5/untitled-1.md)
   * [Challenge 2 - 필승 인공지능 만들기](week-5/challenge-2/README.md)
     * [모범 답안](week-5/challenge-2/undefined.md)
-  * [자율과제 1 - 주민번호 뒷자리 유효성 검증](week-5/untitled-2.md)
-  * [자율과제 2 - 일반 계산기 함수화하기](week-5/2.md)
+  * [자율과제 1 - 주민번호 뒷자리 유효성 검증](week-5/untitled-2/README.md)
+    * [모범 답안](week-5/untitled-2/undefined.md)
+  * [자율과제 2 - 일반 계산기 함수화하기](week-5/2/README.md)
+    * [모범 답안](week-5/2/undefined.md)
 * [6주차 - 당신의 프로그램을 가져보세요!](6.md)
 
