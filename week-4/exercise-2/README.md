@@ -8,11 +8,11 @@ description: 자율과제1을 통해 그린 해적통게임을 완성해봅니�
 
 아래 그림과 같이 반복적으로 해적통에 칼을 꽂아보도록 합니다.
 
-![&#xCE7C;&#xAF42;&#xD78C; &#xD574;&#xC801;&#xD1B5;](../../.gitbook/assets/image%20%2815%29.png)
+![&#xCE7C;&#xAF42;&#xD78C; &#xD574;&#xC801;&#xD1B5;](../../.gitbook/assets/image%20%2816%29.png)
 
 ## 해적 머리 날리기
 
 벌칙 번호에 칼이 꽂히면 머리를 날리세요. 이 때, 벌칙 번호는 하나가 아닌 두개로 지정해주세요!
 
-![&#xAC78;&#xB9B0; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2823%29.png)
+![&#xAC78;&#xB9B0; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2824%29.png)
 
