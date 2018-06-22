@@ -8,7 +8,7 @@ description: '악어 게임의 핵심 논리 구조를 만들고, 루프를 돌�
 
 사용자로부터 입력받은 숫자의 이빨을 공백으로 처리해주세요.
 
-![&#xACF5;&#xBC31;&#xC73C;&#xB85C; &#xCC98;&#xB9AC; &#xB41C; &#xC774;&#xBE68;](../../.gitbook/assets/image%20%2873%29.png)
+![&#xACF5;&#xBC31;&#xC73C;&#xB85C; &#xCC98;&#xB9AC; &#xB41C; &#xC774;&#xBE68;](../../.gitbook/assets/image%20%2875%29.png)
 
 ## 악어 게임 완성하기 
 

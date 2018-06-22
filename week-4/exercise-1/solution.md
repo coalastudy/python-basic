@@ -6,7 +6,7 @@ description: 자율과제 1의 모범 답안입니다.
 
 ## 해적통 게임 순서도
 
-![&#xD574;&#xC801;&#xD1B5; &#xAC8C;&#xC784; &#xC21C;&#xC11C;&#xB3C4;](../../.gitbook/assets/image%20%2895%29.png)
+![&#xD574;&#xC801;&#xD1B5; &#xAC8C;&#xC784; &#xC21C;&#xC11C;&#xB3C4;](../../.gitbook/assets/image%20%2897%29.png)
 
 ## 해적통 게임 출력하기
 
