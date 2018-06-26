@@ -39,7 +39,7 @@ main.py
 
 1. 파이참을 실행하면 아래와 같은 모습이 나옵니다. 왼쪽은 이전에 작업했던 프로젝트들이 나옵니다. 우리는 새로운 프로젝트를 생성해야 하니 'Create New Project'를 클릭합니다.
 
-   ![&#xD30C;&#xC774;&#xC36C; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%28106%29.png)
+   ![&#xD30C;&#xC774;&#xC36C; &#xD504;&#xB85C;&#xC81D;&#xD2B8; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%28107%29.png)
 
 2. 프로젝트 관련 설정하는 창이 보이게 됩니다. 우선은 확인해주어야 할 것이 있습니다. 우리가 사전에 설치한 파이썬이 잘 등록되어 있는지 여부입니다. 'Project Interpreter' 왼편에 작은 세모가 있는데, 그것을 클릭하시면 아래와 같이 펼쳐집니다. 거기서 'Base Interpreter'가 'python3'인지 확인하고, Location 마지막에 여러분이 원하는 프로젝트명을 입력하시고 'Create'를 클릭하시면 됩니다.
 
@@ -71,7 +71,7 @@ main.py
 
 1. 프로젝트명을 우클릭하고 'New -&gt; Python File'을 클릭합니다.
 
-   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%28118%29.png)
+   ![&#xB514;&#xB809;&#xD130;&#xB9AC; &#xC0DD;&#xC131;](../.gitbook/assets/image%20%28119%29.png)
 
 2. calculators를 directory name으로 입력하고 OK버튼을 클릭합니다.
 
