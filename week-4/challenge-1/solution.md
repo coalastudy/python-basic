@@ -6,7 +6,7 @@ description: Challenge 1의 모범 답안입니다.
 
 ## 악어 게임의 간단한 순서도
 
-![&#xC545;&#xC5B4; &#xAC8C;&#xC784; &#xC21C;&#xC11C;&#xB3C4;](../../.gitbook/assets/image%20%2821%29.png)
+![&#xC545;&#xC5B4; &#xAC8C;&#xC784; &#xC21C;&#xC11C;&#xB3C4;](../../.gitbook/assets/image%20%2823%29.png)
 
 ## 악어 게임
 

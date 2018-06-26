@@ -10,7 +10,7 @@ description: >-
 
 먼저는 과목 개수 정보에 대해 사용자로부터 입력을 받은 뒤, 개수만큼 while문을 실행하여 과목의 정보를 입력 받으시오. 이때 동적으로 과목의 정보를 받아야 합니다.
 
-![&#xC5EC;&#xB7EC; &#xACFC;&#xBAA9; &#xC785;&#xB825;&#xBC1B;&#xAE30;](../../.gitbook/assets/image%20%2840%29.png)
+![&#xC5EC;&#xB7EC; &#xACFC;&#xBAA9; &#xC785;&#xB825;&#xBC1B;&#xAE30;](../../.gitbook/assets/image%20%2844%29.png)
 
 ## 반복문을 사용하여 학점 계산하기
 
@@ -22,7 +22,7 @@ description: >-
 
 for문을 돌면서 if문 내부를 수정하여 총 학점, 총 점수를 구해주세요. 최종적으로 총 학점과 GPA를 출력해주세요.
 
-![&#xCD9C;&#xB825; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2819%29.png)
+![&#xCD9C;&#xB825; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2821%29.png)
 
 {% hint style="info" %}
 GPA \(평균 학점\) = 총 점수 / 총 학
