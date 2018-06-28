@@ -50,7 +50,7 @@ while 특정 조건:
 ```python
 a = 0
 
-while a == 10:
+while a != 10:
     a = a+1
     print("aaaaaa")
     continue
@@ -70,7 +70,7 @@ while a == 10:
 ```python
 a = 0
 
-while a == 10:
+while a != 10:
     a = a+1
     print("aaaaaa")
     break
