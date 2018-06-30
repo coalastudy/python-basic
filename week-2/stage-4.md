@@ -12,7 +12,7 @@ description: >-
 
 이번 시간에는 앞자리와 뒷자리의 첫번째를 가지고 정보를 파악해서 생년월일과 성별을 판별해내겠습니다.
 
-![&#xC8FC;&#xBBFC;&#xB4F1;&#xB85D; &#xBD84;&#xC11D;&#xAE30;](../.gitbook/assets/image%20%28144%29.png)
+![&#xC8FC;&#xBBFC;&#xB4F1;&#xB85D; &#xBD84;&#xC11D;&#xAE30;](../.gitbook/assets/image%20%28145%29.png)
 
 ## 문자열 분석하기
 

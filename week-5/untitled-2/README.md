@@ -29,5 +29,5 @@ description: 2주차 때 만든 주민번호 판별기에서 주민번호의 유
 
 ##  출력 결과 
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 

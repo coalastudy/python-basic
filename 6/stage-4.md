@@ -32,7 +32,7 @@ description: xlsxwriter 패키지를 설치해보고 튜토리얼을 해봅니�
 
 터미널에서 xlsxwriter 패키지를 설치합니다.
 
-![xlsxwriter &#xD328;&#xD0A4;&#xC9C0; &#xC124;&#xCE58;](../.gitbook/assets/image%20%28120%29.png)
+![xlsxwriter &#xD328;&#xD0A4;&#xC9C0; &#xC124;&#xCE58;](../.gitbook/assets/image%20%28121%29.png)
 
 ### 코드 작성 및 실행 
 

@@ -18,7 +18,7 @@ Hello World!는 여러분이 모든 프로그래밍 언어를 배울 때 접하�
 
 'print'는 번역하면 '출력하다'라는 뜻이죠. 파이썬에서 print문을 사용하여 모니터에 우리가 원하는 문자들을 출력할 수 있습니다. 우리가 파이썬 파일에 print문을 쓰면 컴퓨터는 출력하라는 명령을 받아서 우리가 보는 모니터 화면에 print문 안의 내용을 보여주게 됩니다.
 
-![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%28133%29.png)
+![print&#xC758; &#xC0AC;&#xC6A9;](../.gitbook/assets/image%20%28134%29.png)
 
 ### Hello World!
 
@@ -280,7 +280,7 @@ but miss you~ bye~!
 print문, format문에 대하여 학습하였습니다. 이제 여러분의 메뉴판을 작성해봅시다. 제가 만든 메뉴판을 예시로 삼아 여러분의 메뉴판을 만들어보세요.
 
 {% code-tabs %}
-{% code-tabs-item title="lunch\_recommander.py" %}
+{% code-tabs-item title="life/lunch\_recommander.py" %}
 ```python
 print("점심 추천기 프로그램입니다!")
 
@@ -309,6 +309,4 @@ print('''
 {% hint style="info" %}
 print문 안에 따옴표 3개로 감싸면 줄바꿈에 관계없이 그대로 출력됩니다. 기존 따옴표 안에서 줄바꿈을 하려면 '\n' 문자를 사용합니다.
 {% endhint %}
-
-
 
