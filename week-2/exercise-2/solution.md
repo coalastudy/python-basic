@@ -7,7 +7,7 @@ description: 자율과제 2의 모범 답안입니다.
 ## 가위 바위 보 게임 만들기
 
 {% code-tabs %}
-{% code-tabs-item title="rps\_game.py" %}
+{% code-tabs-item title="games/rps\_game.py" %}
 ```python
 first_player = input('''
 첫번째 플레이어 무엇을 낼 껀가요?!

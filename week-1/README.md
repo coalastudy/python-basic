@@ -8,7 +8,7 @@ description: '프로그램을 만들기 위해 파일을 만들어보고, 파일
 
 ### 출력과 계산기 프로그램 만들기 
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 파이참에서 파이썬 파일과 디렉터리를 생성합니다.  
 print문, format문을 배워서 메뉴판을 출력합니다.  

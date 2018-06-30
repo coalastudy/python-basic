@@ -7,7 +7,7 @@ description: Challenge 2의 모범 답안입니다.
 ## 주민번호 분석기
 
 {% code-tabs %}
-{% code-tabs-item title="resident\_analyzer.py" %}
+{% code-tabs-item title="life/resident\_numbers\_analyzer.py" %}
 ```python
 print("주민등록번호 분석기 프로그램입니다!")
 

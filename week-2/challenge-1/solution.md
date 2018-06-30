@@ -7,7 +7,7 @@ description: Challenge 1의 모범 답안입니다.
 ## 비만도 계산기
 
 {% code-tabs %}
-{% code-tabs-item title="obesity\_calculator.py" %}
+{% code-tabs-item title="calculators/obesity\_calculator.py" %}
 ```python
 print("비만도계산기 프로그램입니다!")
 

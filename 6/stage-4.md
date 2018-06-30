@@ -18,7 +18,7 @@ description: xlsxwriter 패키지를 설치해보고 튜토리얼을 해봅니�
 
 터미널은 사람이 컴퓨터와 직접적으로 의사소통 할 수 있도록 만든 창구 역할을 합니다. 앞서 배운 pip를 사용하려면 터미널에서 사용해야 합니다. pip를 통해 직접적으로 컴퓨터에 파이썬 패키지를 설치하기 때문입니다.
 
-![&#xD130;&#xBBF8;&#xB110; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2873%29.png)
+![&#xD130;&#xBBF8;&#xB110; &#xBAA8;&#xC2B5;](../.gitbook/assets/image%20%2874%29.png)
 
 ## xlsxwriter 패키지 튜토리얼 
 
@@ -28,11 +28,11 @@ description: xlsxwriter 패키지를 설치해보고 튜토리얼을 해봅니�
 
 파이참에서 터미널을 실행합니다.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 터미널에서 xlsxwriter 패키지를 설치합니다.
 
-![xlsxwriter &#xD328;&#xD0A4;&#xC9C0; &#xC124;&#xCE58;](../.gitbook/assets/image%20%28121%29.png)
+![xlsxwriter &#xD328;&#xD0A4;&#xC9C0; &#xC124;&#xCE58;](../.gitbook/assets/image%20%28122%29.png)
 
 ### 코드 작성 및 실행 
 

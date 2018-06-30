@@ -7,7 +7,7 @@ description: 자율과제 1의 모범 답안입니다.
 ## 일반 계산기
 
 {% code-tabs %}
-{% code-tabs-item title="normal\_calculator.py" %}
+{% code-tabs-item title="calculators/normal\_calculator.py" %}
 ```python
 print("일반계산기 프로그램입니다!")
 

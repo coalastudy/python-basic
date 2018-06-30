@@ -14,9 +14,9 @@ description: 급여 계산기에 세금을 적용해봅니다. 세금 적용시�
 
 ### elif문 알아보기
 
-Stage 1을 통하여 if문과 else문에 대해서 알아보았습니다. if문과 else문 밖에 없다면 코딩을 하는데 큰 어려움을 겪게 될 것입니다. 예를 들어, 일반 계산기를 만들때 덧셈을 할지, 뺄셈을 할지, 곱셈을 할지, 나눗셈을 할지 적어도 4개의 조건이 필요합니다. 그런데 if문과 else문을 가지고는 2가지 밖에 만들 수 없지요. 그래서 이를 보완하기 위해 elif문이 있습니다. elif문은 'else if'의 줄인 표현입니다. '그 외의 경우이고 만약에~' 이 정도로 해석할 수 있겠죠. elif문은 if문과 else문 사이에 원하는 만큼 집어넣을 수 있습니다. 아래와 같이 말이죠.
+Stage 1을 통하여 if문과 else문에 대해서 알아보았습니다. if문과 else문 밖에 없다면 코딩을 하는데 큰 어려움을 겪게 됩니. 예를 들어, 일반 계산기를 만들때 덧셈을 할지, 뺄셈을 할지, 곱셈을 할지, 나눗셈을 할지 적어도 4개의 조건이 필요합니다. 그런데 if문과 else문을 가지고는 2가지 밖에 만들 수 없지요. 그래서 이를 보완하기 위해 elif문이 있습니다. elif문은 'else if'의 줄인 표현입니다. '그 외의 경우이고 만약에~' 이 정도로 해석할 수 있겠죠. elif문은 if문과 else문 사이에 원하는 만큼 집어넣을 수 있습니다. 아래와 같이 말이죠.
 
-![elif&#xBB38; &#xC608;&#xC2DC;](../.gitbook/assets/image%20%2876%29.png)
+![elif&#xBB38; &#xC608;&#xC2DC;](../.gitbook/assets/image%20%2877%29.png)
 
 ## 세금 적용하기
 
@@ -36,7 +36,7 @@ Stage 1을 통하여 if문과 else문에 대해서 알아보았습니다. if문�
 세금 적용하는 부분도 수습 적용하는 부분과 마찬가지로 입력 받습니다.
 
 {% code-tabs %}
-{% code-tabs-item title="pay\_calculator.py" %}
+{% code-tabs-item title="calculators/pay\_calculator.py" %}
 ```python
 # 세금 적용 여부
 tax = input('''
@@ -53,7 +53,7 @@ tax = input('''
 숫자로 비교하기 위해 형변환합니다.
 
 {% code-tabs %}
-{% code-tabs-item title="pay\_calculator.py" %}
+{% code-tabs-item title="calculators/pay\_calculator.py" %}
 ```python
 # 세금 변수 추가
 tax = int(tax)
@@ -66,7 +66,7 @@ tax = int(tax)
 4가지의 경우를 비교하여 세금으로 나가는 비용을 계산해보세요.
 
 {% code-tabs %}
-{% code-tabs-item title="pay\_calculator.py" %}
+{% code-tabs-item title="calculators/pay\_calculator.py" %}
 ```python
 # 세금 적용
 if tax == 2:

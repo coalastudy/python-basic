@@ -12,7 +12,7 @@ description: >-
 
 이번 시간에는 앞자리와 뒷자리의 첫번째를 가지고 정보를 파악해서 생년월일과 성별을 판별해내겠습니다.
 
-![&#xC8FC;&#xBBFC;&#xB4F1;&#xB85D; &#xBD84;&#xC11D;&#xAE30;](../.gitbook/assets/image%20%28145%29.png)
+![&#xC8FC;&#xBBFC;&#xB4F1;&#xB85D; &#xBD84;&#xC11D;&#xAE30;](../.gitbook/assets/image%20%28146%29.png)
 
 ## 문자열 분석하기
 
@@ -20,7 +20,7 @@ description: >-
 
 주민등록을 사용자로부터 입력받으면 문자열 형태로 주민번호가 들어옵니다. 그러면 생년월일을 알기 위해선 앞의 6자리를 각각 2자리씩 끊어서 생각해야 합니다. 이를 위해 우리는 문자열이 어떻게 구성되어 있는지 알아야 합니다. 그런데 전혀 어렵지 않습니다. 각각의 문자열에는 문자 하나하나마다 순서대로 숫자가 부여되어 있습니다. 우리는 그 문자가 문자열에서 몇번째 문자인지만 알면 우리가 원하는 문자를 가져올 수 있습니다.
 
-![&#xBB38;&#xC790;&#xC5F4;&#xC758; &#xAD6C;&#xC131;](../.gitbook/assets/image%20%2859%29.png)
+![&#xBB38;&#xC790;&#xC5F4;&#xC758; &#xAD6C;&#xC131;](../.gitbook/assets/image%20%2860%29.png)
 
 이렇게 각 문자마다 숫자가 부여된 것을 문자열 인덱싱이라고 합니다.
 
@@ -60,7 +60,7 @@ print(a[-11])
 
 ### 문자열 슬라이싱 알아보기
 
-인덱싱을 알아보았습니다. 하지만 인덱싱은 문자열 내에서 연속된 여러개의 문자를 가져오지는 못합니다. 단 하나의 문자만 가져올 수 있지요. 그래서 슬라이싱이란 것이 있습니다. 말 그대로 문자열을 더 작은 조각으로 자르는 행위입니다. 어떻게 할 수 있는지 예문을 통해 살펴보겠습니다.
+인덱싱을 알아보았습니다. 하지만 인덱싱은 문자열 내에서 연속된 여러개의 문자를 가져오지는 못합니다. 단 하나의 문자만 가져올 수 있지요. 그래서 슬라이싱이 있습니다. 말 그대로 문자열을 더 작은 조각으로 자르는 행위입니다. 어떻게 할 수 있는지 예문을 통해 살펴보겠습니다.
 
 {% code-tabs %}
 {% code-tabs-item title="example" %}
@@ -94,7 +94,7 @@ print(a[:4])
 앞서 배운 문자열 슬라이싱을 사용하여 생년월일과 성별에 대한 정보를 가져와봅시다.
 
 {% code-tabs %}
-{% code-tabs-item title="resident\_number\_analyzer.py" %}
+{% code-tabs-item title="life/resident\_number\_analyzer.py" %}
 ```python
 print("주민등록번호 분석기 프로그램입니다!")
 
@@ -114,7 +114,7 @@ sex = resident_number[6]
 조건문을 가지고 성별을 비교합니다.
 
 {% code-tabs %}
-{% code-tabs-item title="resident\_number\_analyzer.py" %}
+{% code-tabs-item title="life/resident\_number\_analyzer.py" %}
 ```python
 # 성별 탐색
 if sex == '1' or sex == '3':
@@ -130,7 +130,7 @@ else:
 ### 출력하기
 
 {% code-tabs %}
-{% code-tabs-item title="resident\_number\_analyzer.py" %}
+{% code-tabs-item title="life/resident\_number\_analyzer.py" %}
 ```python
 # 주민번호로부터 정보 출력
 print("\n생년월일 : {0}년 {1}월 {2}일".format(birth_year, birth_month, birth_day))
