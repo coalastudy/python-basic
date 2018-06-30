@@ -14,5 +14,5 @@ description: games 패키지 안의 파이썬 파일들을 모듈과 패키지�
 
 main.py에 games 패키지를 가져와 각각의 모듈을 추가해서 프로그램에서 games 모듈도 실행할 수 있도록 합니다.
 
-![&#xC2E4;&#xD589; &#xD654;&#xBA74;](../../.gitbook/assets/image%20%28115%29.png)
+![&#xC2E4;&#xD589; &#xD654;&#xBA74;](../../.gitbook/assets/image%20%28116%29.png)
 

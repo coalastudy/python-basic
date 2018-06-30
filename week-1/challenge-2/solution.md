@@ -39,5 +39,3 @@ print('''
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-
-
