@@ -12,7 +12,7 @@ description: 1주차때 배운 내용을 가지고 가위 바위 보 게임을 �
 
 아래와 같이 출력하시오.
 
-![&#xAC00;&#xC704; &#xBC14;&#xC704; &#xBCF4; &#xAC8C;&#xC784; &#xCD9C;&#xB825; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%28115%29.png)
+![&#xAC00;&#xC704; &#xBC14;&#xC704; &#xBCF4; &#xAC8C;&#xC784; &#xCD9C;&#xB825; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%28117%29.png)
 
 ## 방법 {#undefined-1}
 

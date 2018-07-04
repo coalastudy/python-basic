@@ -8,7 +8,7 @@ description: '1주차 자율과제의 가위바위보 게임에 대하여 사용
 
 숫자로 입력받은 가위 바위 보 정보에 대하여 조건문을 통해 한글 텍스트로 변환해줍니다.
 
-![&#xBB34;&#xC5C7;&#xC744; &#xB0C8;&#xB294;&#xC9C0; &#xC54C;&#xB824;&#xC90D;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2862%29.png)
+![&#xBB34;&#xC5C7;&#xC744; &#xB0C8;&#xB294;&#xC9C0; &#xC54C;&#xB824;&#xC90D;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2863%29.png)
 
 {% page-ref page="../stage-2.md" %}
 
@@ -29,7 +29,7 @@ description: '1주차 자율과제의 가위바위보 게임에 대하여 사용
     4-2. 첫번째 플레이어가 '바위' -> 두번째 플레이어 승리!
 ```
 
-![&#xC2B9;&#xBD80;&#xB97C; &#xD310;&#xBCC4;&#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2871%29.png)
+![&#xC2B9;&#xBD80;&#xB97C; &#xD310;&#xBCC4;&#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2872%29.png)
 
 ## 방법 {#undefined-2}
 

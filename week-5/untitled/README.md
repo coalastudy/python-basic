@@ -16,5 +16,5 @@ description: 4주차 과정을 통해 배웠던 반복하면서 게임을 시행
 
 루프가 종료되면, 승자가 나오게 되는데요. 승자를 판별해보세요!
 
-![&#xC885;&#xB8CC; &#xD6C4; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2892%29.png)
+![&#xC885;&#xB8CC; &#xD6C4; &#xBAA8;&#xC2B5;](../../.gitbook/assets/image%20%2894%29.png)
 

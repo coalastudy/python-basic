@@ -12,5 +12,5 @@ life 디렉터리에 있는 파일들을 모듈화하세요.
 
 life 패키지를 가져와서 메인에 추가해보세요.
 
-![&#xC644;&#xC131;&#xB41C; &#xD504;&#xB85C;&#xADF8;&#xB7A8;](../../.gitbook/assets/image%20%2864%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xD504;&#xB85C;&#xADF8;&#xB7A8;](../../.gitbook/assets/image%20%2865%29.png)
 

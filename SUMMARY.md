@@ -42,6 +42,7 @@
     * [모범 답안](week-3/exercise-1/solution.md)
   * [자율과제 2 - 가위바위보 게임 반복하기](week-3/exercise-2/README.md)
     * [모범 답안](week-3/exercise-2/solution.md)
+  * [추천 자료](week-3/undefined.md)
 * [4주차 - 추억의 게임을 만들어봐요!](week-4/README.md)
   * [Stage 1 - 알고리즘이란 무엇인가?](week-4/stage-1.md)
   * [Stage 2 - 야구 게임 만들기](week-4/stage-2.md)
