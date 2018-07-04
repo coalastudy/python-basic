@@ -203,7 +203,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"I love {0}, you love {1}.".format("apple", "me")
+print("I love {0}, you love {1}.".format("apple", "me"))
 # I love apple, you love me
 ```
 {% endcode-tabs-item %}
@@ -214,7 +214,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"I have {0} dollars".format(100000)
+print("I have {0} dollars".format(100000))
 # I have 100000 dollars
 ```
 {% endcode-tabs-item %}
@@ -225,8 +225,19 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"you give me {gift}, he loves {gift}".format(gift="shoes")
+print("you give me {gift}, he loves {gift}".format(gift="shoes"))
 #you give me shoes, he loves shoes
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### 10칸 차지하기 
+
+{% code-tabs %}
+{% code-tabs-item title="example" %}
+```python
+print("{0:10}aaa".format("hi"))
+#'hi        '
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -236,7 +247,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"{0:<10}".format("hi")
+print("{0:<10}aaa".format("hi"))
 #'hi        '
 ```
 {% endcode-tabs-item %}
@@ -247,7 +258,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"{0:^10}".format("hi")
+print("{0:^10}aaa".format("hi"))
 #'    hi    '
 ```
 {% endcode-tabs-item %}
@@ -258,7 +269,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"{0:>10}".format("hi")
+print("{0:>10}aaa".format("hi"))
 #'        hi'
 ```
 {% endcode-tabs-item %}
@@ -269,7 +280,7 @@ but miss you~ bye~!
 {% code-tabs %}
 {% code-tabs-item title="example" %}
 ```python
-"{0:!<10}".format("hi")
+print("{0:!<10}aaa".format("hi"))
 #'hi!!!!!!!!'
 ```
 {% endcode-tabs-item %}
