@@ -28,6 +28,7 @@
     * [모범 답안](week-2/exercise-1/solution.md)
   * [자율과제 2 - 가위바위보 게임 완성하기](week-2/exercise-2/README.md)
     * [모범 답안](week-2/exercise-2/solution.md)
+  * [추천 자료](week-2/undefined.md)
 * [3주차 - 결정 장애 함께 해결해봐요!](week-3/README.md)
   * [Stage 1 - 점심 메뉴 관리하기](week-3/stage-1.md)
   * [Stage 2 - 점심으로 뭘 먹지?](week-3/stage-2.md)
