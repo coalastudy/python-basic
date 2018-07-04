@@ -14,6 +14,7 @@
     * [모범 답안](week-1/exercise-1/solution.md)
   * [자율과제2 - 일반 계산기 만들기](week-1/exercise-2/README.md)
     * [모범 답안](week-1/exercise-2/undefined.md)
+  * [추천 자료](week-1/references.md)
 * [2주차 - 당신의 다이어트 안녕하신가요?](week-2/README.md)
   * [Stage 1 - 급여에 수습 적용하기](week-2/stage-1.md)
   * [Stage 2 - 급여에 세금 적용하기](week-2/stage-2.md)
