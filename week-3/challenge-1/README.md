@@ -12,7 +12,7 @@ description: >-
 
 ## 랜덤으로 번호 발생시키기
 
-![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2852%29.png)
+![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2854%29.png)
 
 ## 방법 {#undefined-1}
 

@@ -12,7 +12,7 @@ description: 임의의 난수를 발생시킨 컴퓨터와 가위 바위 보 게
 
 조건문을 통하여 사용자가 이길 때 게임을 종료시킵니다.
 
-![&#xAC00;&#xC704; &#xBC14;&#xC704; &#xBCF4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%28129%29.png)
+![&#xAC00;&#xC704; &#xBC14;&#xC704; &#xBCF4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%28136%29.png)
 
 ## 방법  
 

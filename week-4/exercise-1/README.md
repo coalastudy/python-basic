@@ -21,7 +21,7 @@ games/
 
 아래와 같이 해적을 그려주세요. 해적통 안의 수는 리스트와 format문을 사용해주세요.
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 ## 방법  
 

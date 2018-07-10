@@ -16,7 +16,7 @@ description: 1주차때 배운 내용을 가지고 일반계산기를 만들어�
 
 아래와 같이 출력하시오.
 
-![&#xC77C;&#xBC18; &#xACC4;&#xC0B0;&#xAE30; &#xCD9C;&#xB825;](../../.gitbook/assets/image%20%28144%29.png)
+![&#xC77C;&#xBC18; &#xACC4;&#xC0B0;&#xAE30; &#xCD9C;&#xB825;](../../.gitbook/assets/image%20%28152%29.png)
 
 ## 방법 {#undefined-1}
 
