@@ -237,7 +237,7 @@ print("you give me {gift}, he loves {gift}".format(gift="shoes"))
 {% code-tabs-item title="example" %}
 ```python
 print("{0:10}aaa".format("hi"))
-#'hi        '
+#'hi        aaa'
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -248,7 +248,7 @@ print("{0:10}aaa".format("hi"))
 {% code-tabs-item title="example" %}
 ```python
 print("{0:<10}aaa".format("hi"))
-#'hi        '
+#'hi        aaa'
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -259,7 +259,7 @@ print("{0:<10}aaa".format("hi"))
 {% code-tabs-item title="example" %}
 ```python
 print("{0:^10}aaa".format("hi"))
-#'    hi    '
+#'    hi    aaa'
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -270,7 +270,7 @@ print("{0:^10}aaa".format("hi"))
 {% code-tabs-item title="example" %}
 ```python
 print("{0:>10}aaa".format("hi"))
-#'        hi'
+#'        hiaaa'
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -281,7 +281,7 @@ print("{0:>10}aaa".format("hi"))
 {% code-tabs-item title="example" %}
 ```python
 print("{0:!<10}aaa".format("hi"))
-#'hi!!!!!!!!'
+#'hi!!!!!!!!aaa'
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}

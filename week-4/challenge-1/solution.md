@@ -56,7 +56,7 @@ print('''
 '''.format(status[0], status[1], status[2], status[3], status[4],
            status[5], status[6], status[7], status[8], status[9],
            status[10], status[11], status[12], status[13], status[14],
-           status[15], status[16], status[17], status[18], status[19], ))
+           status[15], status[16], status[17], status[18], status[19]))
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
