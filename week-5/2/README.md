@@ -6,13 +6,13 @@ description: 일반 계산기의 계산하는 과정을 함수로 빼내어 함�
 
 ## 일반 계산기 함수 만들기
 
-![&#xC77C;&#xBC18; &#xACC4;&#xC0B0;&#xAE30; &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%2862%29.png)
+![&#xC77C;&#xBC18; &#xACC4;&#xC0B0;&#xAE30; &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%2863%29.png)
 
 add, sub, mul, div\_int, div\_float, remainder의 이름 가지고, 그 의미에 맞는 함수를 만들어 계산기에 적용하시오.
 
 ## 방법  
 
-### **다음** **단계를** **따라** **진행하면** **더** **쉽습니다.** {#undefined-3}
+### **다음** **단계를** **따라** **진행하면** **더** **쉽습니다.** <a id="undefined-3"></a>
 
 **\[단계1\]** 6개의 함수를 정의하세요.  
 **\[단계2\]** 함수를 선언할 위치를 정합니다.  

@@ -6,7 +6,7 @@ description: Challenge 1의 모범 답안입니다.
 
 ## 게임 관련 디렉터리와 파일 만들기
 
-![ &#xAC8C;&#xC784; &#xAD00;&#xB828; &#xB514;&#xB809;&#xD130;&#xB9AC;&#xC640; &#xD30C;&#xC77C;](../../.gitbook/assets/image%20%2814%29.png)
+![ &#xAC8C;&#xC784; &#xAD00;&#xB828; &#xB514;&#xB809;&#xD130;&#xB9AC;&#xC640; &#xD30C;&#xC77C;](../../.gitbook/assets/image%20%2815%29.png)
 
 ## 악어 그리기
 

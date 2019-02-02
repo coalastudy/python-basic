@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [일상생활에서 배우는 기초 파이썬](README.md)
 * [1주차 - 나도 이제 파이썬 코딩한다!](week-1/README.md)
   * [Stage 1 - 파일과 디렉터리](week-1/stage-1.md)
   * [Stage 2 - 메뉴판 그려보기](week-1/stage-2.md)

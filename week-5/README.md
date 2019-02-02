@@ -4,11 +4,11 @@ description: '이전 시간 배웠던 변수, 할당연산자, 조건문, 반복
 
 # 5주차 - 베스킨라빈스 31 인공지능 컴퓨터를 이겨라!
 
-## 오늘의 목표  {#undefined}
+## 오늘의 목표  <a id="undefined"></a>
 
-### 기본 문법 완전 정복!  {#undefined-1}
+### 기본 문법 완전 정복!  <a id="undefined-1"></a>
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 알고리즘이 무엇인지 알아봅니다.   
 베스킨라빈스31 게임을 만들며 문법을 익숙하게 합니다.

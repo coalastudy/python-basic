@@ -12,11 +12,11 @@ description: >-
 
 ## 랜덤으로 번호 발생시키기
 
-![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2854%29.png)
+![ &#xB85C;&#xB610; &#xBC1C;&#xC0DD;&#xAE30;](../../.gitbook/assets/image%20%2855%29.png)
 
-## 방법 {#undefined-1}
+## 방법 <a id="undefined-1"></a>
 
-### **짝과 함께 다음 단계를 모두 진행합니다.** {#undefined-3}
+### **짝과 함께 다음 단계를 모두 진행합니다.** <a id="undefined-3"></a>
 
 **\[단계1\]** 리스트 변수 이름을 정합니다.  
 **\[단계2\]** random 라이브러리에서 사용할 함수를 결정합니다.  

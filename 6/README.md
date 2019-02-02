@@ -4,11 +4,11 @@ description: 지금껏 만들어왔던 모든 프로그램을 하나의 프로�
 
 # 6주차 - 당신의 프로그램을 가져보세요!
 
-## 오늘의 목표  {#undefined}
+## 오늘의 목표  <a id="undefined"></a>
 
-### 파이썬 모듈과 패키지 이해하기 {#undefined-1}
+### 파이썬 모듈과 패키지 이해하기 <a id="undefined-1"></a>
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 모듈과 패키지의 개념을 이해합니다.  
 pip에 대하여 배워봅니다.  

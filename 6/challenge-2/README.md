@@ -8,11 +8,11 @@ description: xlsxwriter 패키지를 사용하여 반복작업을 간단하게 �
 
 A1 ~ A100까지 1에서 100의 숫자가 들어가는 프로그램을 만드시오.
 
-![practice\_xlsxwriter.py &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%288%29.png)
+![practice\_xlsxwriter.py &#xACB0;&#xACFC;](../../.gitbook/assets/image%20%289%29.png)
 
-## 방법 {#undefined-1}
+## 방법 <a id="undefined-1"></a>
 
-### **짝과 함께 다음 단계를 모두 진행합니다.** {#undefined-3}
+### **짝과 함께 다음 단계를 모두 진행합니다.** <a id="undefined-3"></a>
 
 **\[단계1\]** 사용해야 할 파이썬 문을 생각해보세요.  
 **\[단계2\]** 파이썬 구문 들어가는 위치를 생각해보세요.  

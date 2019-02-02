@@ -22,15 +22,15 @@ games/
 
 crocodile\_game.py에 아래와 같은 악어가 출력되도록 작성해주세요.
 
-![&#xC644;&#xC131;&#xB41C; &#xC545;&#xC5B4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%2853%29.png)
+![&#xC644;&#xC131;&#xB41C; &#xC545;&#xC5B4; &#xAC8C;&#xC784;](../../.gitbook/assets/image%20%2854%29.png)
 
 {% hint style="info" %}
 이빨 안의 숫자는 format문을 사용하여 입력해주세요.
 {% endhint %}
 
-## 방법 {#undefined-2}
+## 방법 <a id="undefined-2"></a>
 
-### **짝과** **함께** **다음** **단계를** **모두** **진행합니다.** {#undefined-4}
+### **짝과** **함께** **다음** **단계를** **모두** **진행합니다.** <a id="undefined-4"></a>
 
 **\[단계1\]** 파일을 생성합니다.   
 **\[단계2\]** print문만 사용하여 악어를 그려보세요.  
